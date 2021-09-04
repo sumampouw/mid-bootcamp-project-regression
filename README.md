@@ -33,15 +33,15 @@ The data set has information on some 22,000 properties. The dataset consisted of
 
     |   |   |
     |---|---|
-    | Id: Unique identification number for the property. |
-    | date: date the house was sold. |
-    | price: price of the house. |
-    | waterfront: house which has a view to a waterfront. |
-    | condition: How good the condition is (overall). 1 indicates worn out property and 5 excellent. |
-    | grade: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent. |
-    | Sqft_above: square footage of house apart from basement. |
-    | Sqft_living15: Living room area in 2015 (implies - some renovations). This might or might not have affected the lot size area. |
-    | Sqft_lot15: Lot size area in 2015 (implies - some renovations). |
+    | Id: | Unique identification number for the property.
+    | date: | date the house was sold.
+    | price: | price of the house.
+    | waterfront: | house which has a view to a waterfront.
+    | condition: | How good the condition is (overall). 1 indicates worn out property and 5 excellent.
+    | grade: | Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.
+    | Sqft_above: | square footage of house apart from basement.
+    | Sqft_living15: | Living room area in 2015 (implies - some renovations). This might or might not have affected the lot size area.
+    | Sqft_lot15: | Lot size area in 2015 (implies - some renovations).
     |||
 
 ## Tools
