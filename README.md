@@ -29,6 +29,8 @@ The data set has information on some 22,000 properties. The dataset consisted of
 
 ## **Housing** data:
 
+1. **regression-housing** data:
+
     |   |   |
     |---|---|
     | Id: Unique identification number for the property. |
@@ -40,15 +42,6 @@ The data set has information on some 22,000 properties. The dataset consisted of
     | Sqft_above: square footage of house apart from basement. |
     | Sqft_living15: Living room area in 2015 (implies - some renovations). This might or might not have affected the lot size area. |
     | Sqft_lot15: Lot size area in 2015 (implies - some renovations).Date of Birth| Nationality   |  |
-    |||
-
-    |   |   |
-    |---|---|
-    |  Player Name | Club of the Player   |
-    | League  | Position  |
-    | Pace  |  Shooting |
-    |  Passing | Dribbling  |
-    | Defending|Physical|
     |||
 
 ## Tools
