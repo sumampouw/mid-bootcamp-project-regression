@@ -41,7 +41,7 @@ The data set has information on some 22,000 properties. The dataset consisted of
     | grade: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent. |
     | Sqft_above: square footage of house apart from basement. |
     | Sqft_living15: Living room area in 2015 (implies - some renovations). This might or might not have affected the lot size area. |
-    | Sqft_lot15: Lot size area in 2015 (implies - some renovations).Date of Birth| Nationality   |  |
+    | Sqft_lot15: Lot size area in 2015 (implies - some renovations). |
     |||
 
 ## Tools
