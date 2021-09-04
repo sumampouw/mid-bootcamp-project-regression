@@ -35,11 +35,20 @@ The data set has information on some 22,000 properties. The dataset consisted of
     | date: date the house was sold. |
     | price: price of the house. |
     | waterfront: house which has a view to a waterfront. |
-    | condition: How good the condition is (overall). **1** indicates worn out property and **5** excellent. |
+    | condition: How good the condition is (overall). 1 indicates worn out property and 5 excellent. |
     | grade: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent. |
     | Sqft_above: square footage of house apart from basement. |
     | Sqft_living15: Living room area in 2015 (implies - some renovations). This might or might not have affected the lot size area. |
     | Sqft_lot15: Lot size area in 2015 (implies - some renovations).Date of Birth| Nationality   |  |
+    |||
+
+    |   |   |
+    |---|---|
+    |  Player Name | Club of the Player   |
+    | League  | Position  |
+    | Pace  |  Shooting |
+    |  Passing | Dribbling  |
+    | Defending|Physical|
     |||
 
 ## Tools
@@ -69,9 +78,9 @@ The data set has information on some 22,000 properties. The dataset consisted of
 
 ## Results
 
-- SQL file [Here](https://github.com/sumampouw/mid-bootcamp-project-regression/blob/main/mid-bootcamp-project-regression.ipynb)
-- ipynb notebook file [Here](https://github.com/sumampouw/mid-bootcamp-project-regression/blob/main/SQL questions - regression.sql)
-- Tableau file [Here](https://public.tableau.com/app/profile/spica.sumampouw/viz/housing-regression/Q9)
+- SQL file [Here](https://github.com/sumampouw/mid-bootcamp-project-regression/blob/main/SQL%20questions%20-%20regression.sql)
+- ipynb notebook file [Here](https://github.com/sumampouw/mid-bootcamp-project-regression/blob/main/mid-bootcamp-project-regression.ipynb)
+- Tableau file [Here](https://public.tableau.com/app/profile/spica.sumampouw/viz/housing-regression/Story1#1)
 
 ## Summary
 
